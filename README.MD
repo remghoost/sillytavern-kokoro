@@ -20,7 +20,9 @@ git clone https://github.com/remsky/Kokoro-FastAPI.git
 cd Kokoro-FastAPI
 ```
 
-Once you get that all set up, you need to decide whether you want to run it on CPU or GPU. You only need to run one chunk of these commands. I'm personally using CPU and it's quite fast.
+Once you get that all set up, you need to decide whether you want to run it on CPU or GPU.  
+You only need to run one chunk of these commands.  
+I'm personally using CPU and it's quite fast.
 
 ```
 # CPU commands
