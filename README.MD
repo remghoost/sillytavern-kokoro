@@ -42,7 +42,7 @@ Upon running that command, you should see this window pop up:
 ### Now we have to edit SillyTavern a bit.
 
 Download `kokoro.js` from this repo.  
-I've included it in the releases, but you can `git clone` this repo and copy/paste if over if you'd like.
+I've included it in the [releases](https://github.com/remghoost/sillytavern-kokoro/releases), but you can `git clone` this repo and copy/paste if over if you'd like.
 
 Then go to `SillyTavern\public\scripts\extensions\tts` and paste `kokoro.js` in there.
 
