@@ -3,6 +3,9 @@
 I need to make an auto-installer for this.  
 But for now, you have to do it "manually".
 
+There WILL be bugs, but it works fine for now.  
+Just try not to break it please. haha.
+
 ---
 
 ## How to install
